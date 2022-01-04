@@ -17,7 +17,7 @@ This application is made of two parts:
     - is a React.js project located in the [client](src/client) folder.
 * API
     - uses the [MariaDB Python Connector](https://github.com/mariadb-corporation/mariadb-connector-python) with [SQLAlchemy](https://www.sqlalchemy.org/) to connect to MariaDB.
-    - is a Python project located int the [api](src/api) folder.
+    - is a Python project located in the [api](src/api) folder.
 
 This README will walk you through the steps for getting the TODO web application up and running using MariaDB.
 
@@ -100,7 +100,7 @@ This application is made of two parts:
     - is a React.js project located in the [client](src/client) (/src/client) folder.
 * API
     - uses the [MariaDB Python Connector](https://github.com/mariadb-corporation/mariadb-connector-python) with [SQLAlchemy](https://www.sqlalchemy.org/) to connect to MariaDB.
-    - is a Python project located int the [api](src/api) folder.
+    - is a Python project located in the [api](src/api) folder.
 
 The following steps, `a` through `e`, will walk you through the process of configuring, building and running the `api` and `client` applications.
 
