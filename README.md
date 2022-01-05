@@ -19,7 +19,7 @@ This application is made of two parts:
     - uses the [MariaDB Python Connector](https://github.com/mariadb-corporation/mariadb-connector-python) with [SQLAlchemy](https://www.sqlalchemy.org/) to connect to MariaDB.
     - is a Python project located in the [api](src/api) folder.
 
-This README will walk you through the steps for getting the TODO web application up and running using MariaDB.
+This README will walk you through the steps for getting the `TODO` web application up and running using MariaDB.
 
 # Table of Contents
 1. [Requirements](#requirements)
@@ -178,11 +178,11 @@ $ python3 api.py
 
 **Note:** You will need to use seperate terminals for the `client` and `api` apps.
 
-### e.) Build and run the [UI (Client) app](src/client) <a name="build-run-client"></a>
+### e.) Build and run the [UI (Client) app](https://github.com/mariadb-developers/todo-app-client) <a name="build-run-client"></a>
 
-Once the API project is running you can now communicate with the exposed endpoints directly (via HTTP requests) or with the application UI, which is contained with the [client](src/client) folder of this repo.
+Once the API project is running you can now communicate with the exposed endpoints directly (via HTTP requests) or with the application UI, which is contained with the `client` folder of this repo.
 
-To start the [client](src/client) application follow the instructions [here](https://github.com/mariadb-developers/todo-app-client).
+To start the `client` application follow the instructions [here](https://github.com/mariadb-developers/todo-app-client).
 
 ## Support and Contribution <a name="support-contribution"></a>
 
